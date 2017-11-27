@@ -1,0 +1,2 @@
+# remlayout
+用于移动端designWidth、layoutWidth等参数根据计算并设置html的font-size，并且可以设置最大的font-size
